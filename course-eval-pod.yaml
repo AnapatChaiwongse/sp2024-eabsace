@@ -1,0 +1,27 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: course-eval-pod
+spec:
+  containers:
+  - name: course-eval-pod
+    image: nvcr.io/nvidia/pytorch:24.06-py3
+    stdin: true
+    stdinOnce: true
+    tty: true
+    resources:
+      limits:
+        nvidia.com/gpu: 2  # Request 1 GPU
+    volumeMounts:
+    - mountPath: /workspace
+      name: workspace
+    - mountPath: /dev/shm
+      name: dshm
+  volumes:
+  - hostPath:
+      path: /home/thanapon.nor
+      type: Directory
+    name: workspace
+  - emptyDir:
+      medium: Memory
+    name: dshm
