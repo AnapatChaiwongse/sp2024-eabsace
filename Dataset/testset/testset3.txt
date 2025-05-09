@@ -1,0 +1,161 @@
+Overall is excellent, but it would be better if we could receive the slide in the classroom.The sentiment polarity of organization is neutral .
+If the invited guest speaker doing in online the student should be online tooThe sentiment polarity of content quality is neutral .
+The slides given have too many words, formulas, and diagrams, and I am overwhelmed by them.The sentiment polarity of organization is neutral .
+Great teaching skills, really care about studentsThe sentiment polarity of instructor is positive .
+Please extend the period assignment deadline by a day.The sentiment polarity of content quality is neutral .
+It would be great if we can get more information about the project description. such as score criteria, project requirements, project limitationsThe sentiment polarity of instructor is neutral .
+Too many assignments in my opinionThe sentiment polarity of content quality is neutral .
+It's difficult install [software] on Unix based devices, especially with the modern ARM processors, [software] only supports the x86_64 architecture. I think there are plenty of alternatives that natively support both x86_64 and arm64 chipsets (maybe the ones that are web based or written in java), as running Netica through emulation causes the program to be unstable and crashes alot (Tested on x86_64 Suse Tumbleweed and arm64 Windows, there are cases where my friends with m1 macbooks aren't able to install at all).The sentiment polarity of instructor is neutral .
+Sometimes I didn't catch the content if you went too fast.The sentiment polarity of content quality is neutral .
+The air conditioner in the lab is very cold.Would like the table to be wider than this when placing the box [Course] and the laptopThe sentiment polarity of instructor is neutral .
+Could AJ use the slide that does not contain a solid color such as blue or black background because when students have to print the material for the examination, they are difficult to read or have to print it using color ink or Could AJ please give the slide in the format that we can edit by ourselves?The sentiment polarity of content quality is neutral .
+Too much homeworkThere are every week.The sentiment polarity of organization is negative .
+You are very kind and I really like your teaching style.The sentiment polarity of content quality is neutral .
+At the time of writing, how to use other apps instead, such as the [Software], [software] etc. Because writing in [software] is quite delay and makes it difficult to read sometimes.Thank you in advance.The sentiment polarity of instructor is neutral .
+[instructor] accent is hard to understand a lesson.The sentiment polarity of content quality is neutral .
+A lot of homeworkThere should be an answer and check the homework as well.When the exam does not have sheets, it will be repeated.The sentiment polarity of content quality is neutral .
+[instructor] is impolite sometimes, teaches not well, very little people show up in the class because they have no clue what they're studying and they do not find learning with  [instructor] enjoying or easily understandable. [instructor]'s method is much better than [instructor],  [instructor] has full class of student whereas no body wants to come to  [instructor]'s class.  [instructor] health is not good and interrupt the lesson,  [instructor] teaching method is not fun.The sentiment polarity of organization is negative .
+That the teacher teaching is very goodNothing led because the teacher really taught very well.The sentiment polarity of instructor is positive.
+Homework that is done without a clear answer, resulting in the idea that it is a trainingBut doing without knowing whether it is wrong or not, it may be benefited anyway.The sentiment polarity of instructor is neutral .
+Reduce homework, give more time to do quiz.The sentiment polarity of motivation is neutral .
+This course is very difficult expecially the last part. I think there should be some adjustment to the cirriculum and maybe exclue some topic. Some topics are too complicated to be taught in an entry level class in my opinion.The sentiment polarity of motivation is neutral .
+The workload is unbalanced and too much to handle. Some assignment is not nectary and waste time. Some individual assignments look like one project. Moreover, the requirement of the project and weekly assignment is not efficient such as the report should have 20 pages, Summarize must be more than two pages. I think the number of pages can not reflect any quality of work and knowledgeThe sentiment polarity of content quality is neutral .
+I rarely learn about what really [course] is, I got only the meaning of each term and does not get any feedback from the submitted assignment, I have learned almost nothing and the instructor seems not to care about how students will feel about her because I do not see any changes from the previous comments.No offense to any instructors, but as far as I am concerned, not many people are interested in the class, and the class attendance has been abysmal. Try spice things up a bit next year, please?The sentiment polarity of organization is neutral .
+The teacher does not understand, must read almost 100%. There is no understanding of the content at all.I don't know how the content taught.Speaking sarcasticallyWhen there is a consultation in the classDue to not understanding and unable to catch upThe teacher has a rating to go out of the room, which actually has the duty to teach aboutIf teachingNo need to talk to each other.Speak on the moodExpressed the maturity of the instructorWould like the teacher to focus more on teachingThe sentiment polarity of instructor is negative .
+Ajarn releases the project 2 very late, but it should be releases at the beginning of November in syllabus. That is very little time to do the project.The sentiment polarity of instructor is neutral .
+Illustrated about examinationThe sentiment polarity of motivation is neutral .
+Want to have a workshop, try to use various tools to see the imageThe sentiment polarity of content quality is negative .
+I believe that having some short breaks during 3 hours class would not hurt the flow of the class, so I would like to suggest to allow students for some breaks during class.The sentiment polarity of instructor is neutral .
+The instructor give descriptions and details in class topic very clearThe sentiment polarity of motivation is neutral .
+I can't follow teacher from time to time because of English speech.The sentiment polarity of content quality is neutral .
+The teacher taught is a little too fast.The sentiment polarity of instructor is negative .
+Cant understand what teacher taughtThe sentiment polarity of motivation is neutral .
+[instructor] attended me very cordially and professionally every time I did request [instructor] assistanceThe sentiment polarity of motivation is neutral.
+The lecture slides content is sometimes having too much content for students to digest, but still appreciated studying this course with [instructor] and [instructor].The sentiment polarity of content quality is negative .
+Please slow down a little bit. I mostly can't catch up with taking the note.The sentiment polarity of motivation is neutral .
+From the experience of studying the first five weeks of this courseFeeling like and fun in various workBut it will be more fun if there is a basis for using the program ([Software]) before and there is a Senior Project that makes work not fully creative.But overall I like this course very muchThe sentiment polarity of content quality is positive .
+please use a microphoneThe sentiment polarity of organization is neutral .
+Homework that is done without a clear answer, resulting in the idea that it is a trainingBut doing without knowing whether it is wrong or not, it may be benefited anyway.The sentiment polarity of organization is neutral .
+Want to have a workshop, try to use various tools to seeThe sentiment polarity of instructor is neutral .
+please have more flexibility about hybrid classes (online+onsite)The sentiment polarity of motivation is neutral .
+Quiz is checking the name.And give a little timeThe sentiment polarity of content quality is neutral .
+I would like teachers to be more flexible about checking attendance classes and grading.The sentiment polarity of content quality is neutral .
+I believe that this subject has many benefits but the workload is too much for students compared to other classes. Even when it’s almost exam week, this class still requires us to submit work. So I think assignments should be cut less with longer time to do.The sentiment polarity of instructor is neutral .
+I think we quiz when the class begins better than we just go to the faculty to take 15 minutes quiz on Wednesday because I take around 2 hours to come to the faculty from my home.The sentiment polarity of content quality is neutral .
+A fun subject to study, with a reasonable workload.The sentiment polarity of organization is positive.
+If the invited guest speaker doing in online the student should be online tooThe sentiment polarity of instructor is neutral .
+Explain both Thai and English. Covering the whole lesson. Thank you very much.The sentiment polarity of content quality is neutral .
+The lecture is easy to understand after the instructor has taught.The sentiment polarity of motivation is neutral .
+The lecture is easy to understand after the instructor has taught.The sentiment polarity of organization is positive .
+[instructor] should tell the student about the project at least two weeks before the final exam. [instructor] also should not give any assignments during the final exam. I can understand it is the practice but it would be better if it has a solution for the student. I mean how I suppose to know our answer is correct? while in class, we can not understand anything.The sentiment polarity of instructor is neutral .
+Teacher doesn’t have responsibility to prepare slide because we waste time for this 1 hr from 1hr 30min. [instructor] didn’t clearly speak in class. i don’t understand anything that he want until i think i weak english skill but when i study in extra class, i will know.The sentiment polarity of organization is negative .
+The instructor give descriptions and details in class topic very clearThe sentiment polarity of instructor is positive .
+48 [Topic] sent by that night too muchThe sentiment polarity of organization is negative.
+I felt like it's hard to get full picture of what's going on in the lecture class. It'd be better if the entire class is writing code together on the computer during lecture, then let everyone do their own lab afterward. That'd give us better understanding of what's going on.The sentiment polarity of motivation is neutral .
+Too many assignments in my opinionThe sentiment polarity of instructor is neutral .
+I think we quiz when the class begins better than we just go to the faculty to take 15 minutes quiz on Wednesday because I take around 2 hours to come to the faculty from my home.The sentiment polarity of organization is negative .
+Too much work and why you assign project before final.The sentiment polarity of instructor is neutral .
+Final homework original deadline overlapped with other exams.The sentiment polarity of content quality is neutral .
+Very on time and strict to the pointThe sentiment polarity of organization is neutral .
+[instructor] is a very good teacher for me. [instructor] always give a clearly feedback for my work. [instructor] reply the massage very fast which help me do the assignment smoothly. I so happy studying in [instructor]  class.??????The sentiment polarity of motivation is neutral .
+Teach more than time, work during the exam, a lotThe sentiment polarity of instructor is neutral .
+maybe he is good in teaching in Thai language morethan explains things in english.The sentiment polarity of instructor is negative .
+[instructor] should tell the student about the project at least two weeks before the final exam. [instructor] also should not give any assignments during the final exam. I can understand it is the practice but it would be better if it has a solution for the student. I mean how I suppose to know our answer is correct? while in class, we can not understand anything.The sentiment polarity of organization is negative .
+Too much homeworkThere are every week.The sentiment polarity of motivation is neutral .
+Quiz is checking the name.And give a little timeThe sentiment polarity of motivation is neutral .
+I was also not able to memorize the whole structure and find myself very struggling with the subject. However, one night, through my compassion and a liter of coffee, I decided to revise the material from [course]  from last semester from the beginning focusing on how [topic] works. I find that it is easier for me to study [course] knowing what and how data was sent from each layer.The sentiment polarity of instructor is neutral .
+Do not want to have a news eventThe sentiment polarity of organization is negative.
+Deadline for assignment is too short. 72 hours is a short time compared to other subject which give you at least 1 week to finish the assignment. Also, I thought I'd learn [topic] and not [topic]....The sentiment polarity of instructor is neutral .
+Good course, learning many things, even teammate does not work very well as expected.The sentiment polarity of instructor is neutral .
+I do not think that this class is necessary for the ICT studentThe sentiment polarity of instructor is neutral .
+Finding terms and vocabs are useless.The sentiment polarity of motivation is neutral .
+I think that [instructor] accent is hard to understandThe sentiment polarity of content quality is neutral .
+I still have a problem with current grading system where the assignment, if done by code gets 100% and done by writing get 75% but there is no source code explanation which really makes it hard for the student to do as, well, you know...we are all really lazy kids and lazy kids don't read source code which is bad but that's the fact of life.The sentiment polarity of motivation is negative .
+Ajarn should not speak during the quiz timeThe sentiment polarity of content quality is neutral .
+Would like the teacher to have a past videoBecause I would like to review more in order to understand more contentThe sentiment polarity of content quality is neutral .
+I would like teachers to be more flexible about checking attendance classes and grading.The sentiment polarity of motivation is neutral .
+I want to know every score when I send my assignment. So, I can manage my grade.The sentiment polarity of instructor is neutral .
+I want teacher to tell clearly about the lesson that will be learned because sometime I am a bit confused what we are learning now. And I want teacher teach on slides because I can't obviously see the handwritings on a boardThe sentiment polarity of motivation is neutral .
+he is a kind person and can be a good advisor, however he is not a good instructor at all since he cannot delivered the knowledge in the class to make the student understand.The sentiment polarity of instructor is negative .
+great teacher, very caring and respectful. unfortunately the classes are usually at the evening of the day. on the other hand, the workloads on other subjects redusce the time we can spend with the study buddies and self-learning significantlyThe sentiment polarity of motivation is neutral .
+I think changing to other studies should be more useful (such as [Course] etc.)The sentiment polarity of instructor is neutral .
+The number of assignments is quite too much.The sentiment polarity of instructor is neutral .
+I enjoy the class because the instructor keeps the students engaged and is able to explain the content in a way that keeps me interested. The instructor also has broad knowledge on the subject and can explain it well. Also, I appreciate that the instructor motivates us to search for more IT knowledge.The sentiment polarity of motivation is positive.
+The workload is unbalanced and too much to handle. Some assignment is not nectary and waste time. Some individual assignments look like one project. Moreover, the requirement of the project and weekly assignment is not efficient such as the report should have 20 pages, Summarize must be more than two pages. I think the number of pages can not reflect any quality of work and knowledgeThe sentiment polarity of instructor is neutral .
+Please record lectures onlineThe sentiment polarity of instructor is neutral .
+Would like the teacher to keep this style indefinitely. I study with the teacher a lot, but have to repeat more knowledge than othersThe sentiment polarity of motivation is positive .
+I want the teacher to teach a little slower.The sentiment polarity of content quality is neutral .
+[instructor] should tell the student about the project at least two weeks before the final exam. [instructor] also should not give any assignments during the final exam. I can understand it is the practice but it would be better if it has a solution for the student. I mean how I suppose to know our answer is correct? while in class, we can not understand anything.The sentiment polarity of content quality is neutral .
+This course is very difficult expecially the last part. I think there should be some adjustment to the cirriculum and maybe exclue some topic. Some topics are too complicated to be taught in an entry level class in my opinion.The sentiment polarity of organization is neutral .
+The teacher gives the work every week and gives time to send by midnight on the day of the work. There is no answer or answers whether the homework that has been done and sent correctly or not.The sentiment polarity of instructor is neutral .
+Quiz is checking the name.And give a little timeThe sentiment polarity of organization is negative .
+Finding terms and vocabs are useless.The sentiment polarity of organization is negative .
+[instructor] is a very good teacher for me. [instructor] always give a clearly feedback for my work. [instructor] reply the massage very fast which help me do the assignment smoothly. I so happy studying in [instructor]  class.??????The sentiment polarity of instructor is positive .
+Change the assignment cuz in real world, we use [library], [library] not necessary to do recursive or anything like that.The sentiment polarity of motivation is neutral .
+I like the way you teach us very much, as well as the suggestions and descriptions. That helps us very much to understand each assignment more clearly. Additionally, I see the effort and dedication in teaching. Thank you. I hope to see you next semester!The sentiment polarity of organization is positive .
+This class is the least enjoyable class in this semeseter. The weekly assignment in my opinion is not nessecary. This class's assignment is too heavy, and it takes up most of the time I have spent in this semester. So much work for so few credits, not to mention that the content is scattered all over the place, with some overlapping with computer networking and software engineering. I think this class has potential but by the way it is planned right now, theres too much unnessecary workload and too much contents. Please adjust this class.The sentiment polarity of motivation is negative .
+please have more flexibility about hybrid classes (online+onsite)The sentiment polarity of instructor is neutral .
+Deciding to host onsite classes and her only appearing in online meetings is one of the worst experiences I have ever felt, sure, [instructor] may have health issues but could have hosted online classes. To add an insult to injury, [instructor] expresses dislike to many students because nobody listens to [instructor], but we do have a defense, there's nothing but [instructor] just reading things on the presentation slides so how could we stay focused on what is literally right there in the slide itself? While I do not like to say that [instructor] is redundant and useless, I and many others share the same opinion that there is almost nothing of value in really being engaged in [instructor] class, we have many other things that are important to deal with.The sentiment polarity of content quality is neutral .
+A lot of homeworkThere should be an answer and check the homework as well.When the exam does not have sheets, it will be repeated.The sentiment polarity of motivation is neutral .
+48 [Topic] sent by that night too muchThe sentiment polarity of instructor is neutral .
+like the teaching wayThe sentiment polarity of motivation is neutral .
+The project shouldn't assign to students during examination week because we have to rest and review the lecture. So, we cannot fully focus on the project.The sentiment polarity of content quality is neutral .
+[instructor] attended me very cordially and professionally every time I did request [instructor] assistanceThe sentiment polarity of instructor is positive .
+He didn’t clear to assign homework, and he never adapt himself. i commented he in [subject] in the same problem.The sentiment polarity of instructor is negative .
+Teacher didn’t write about topic while  teaching, so we often don’t know what chapter we learn, and using whiteboard in teaching made it harder to lecture because teacher was random location to write and disorderly. His communication was also incomprehensible.The sentiment polarity of instructor is negative .
+Everything is great, but the midterm exam is quite hard lol, maybe I have to try harder to understand it.The sentiment polarity of instructor is neutral .
+Teach more than time, work during the exam, a lotThe sentiment polarity of organization is negative .
+Order a lot of workBut gives very little time to workThe sentiment polarity of instructor is neutral .
+The recording is not provided, but I do urge academic affairs to provide the recordings so that the students may be able to revise the material on their own.The sentiment polarity of motivation is neutral .
+From the experience of studying the first five weeks of this courseFeeling like and fun in various workBut it will be more fun if there is a basis for using the program ([Software]) before and there is a Senior Project that makes work not fully creative.But overall I like this course very muchThe sentiment polarity of instructor is neutral .
+Thank you for teaching this good.The sentiment polarity of organization is neutral .
+The teacher taught very well.The sentiment polarity of organization is neutral .
+Would like [instructor] to list the assignment in [system]. At some point, I do forgot about the assignment.The sentiment polarity of content quality is neutral .
+Add more technology cultural evolutionThe sentiment polarity of organization is neutral .
+Projects are challenging, it will be more enjoyable if we have more time to do it. Regretted not doing the coding for assignmentThe sentiment polarity of instructor is neutral .
+Love the way you teach us, I appreciate it!The sentiment polarity of instructor is positive .
+I want [instructor] to speak clearlyThe sentiment polarity of instructor is negative .
+In the part where I didn't understand the coding, I want this course to teach me more clearly about competitive thinking or the process to do before coding, like cutting the problem. However, I also think this course is good for us.The sentiment polarity of motivation is neutral .
+Everything is fantastic except for using the [system] for work.The sentiment polarity of motivation is neutral .
+Change the assignment cuz in real world, we use [library], [library] not necessary to do recursive or anything like that.The sentiment polarity of instructor is neutral .
+If the class requires students to take the quiz on site, it should be arranged in class time.The sentiment polarity of instructor is neutral .
+Quiz too muchThe sentiment polarity of content organization is negative .
+I find the instructor to be highly skilled in this field. However, it is difficult to understand what is taught. I feel that self-learning is definitely required if you see this instructor teaching.The sentiment polarity of organization is neutral .
+Midterm exam has a lot of calculation, I think a calculator should be allowed since we are being tested for our [course] skills and not our calculation skills.The sentiment polarity of content quality is neutral .
+Please let students have attendance checks while some phones aren't capable to scan from some distance or have another way for attendanceThe sentiment polarity of content quality is neutral .
+I do not think that this class is necessary for the ICT studentThe sentiment polarity of content quality is neutral .
+I really enjoyed your lecture, you understand the student very well and assigned a reasonable workload.The sentiment polarity of content quality is neutral .
+Arrange extra classThe sentiment polarity of content quality is neutral .
+Homework due date should be next date from when it assign.The sentiment polarity of instructor is neutral .
+I want teacher to tell clearly about the lesson that will be learned because sometime I am a bit confused what we are learning now. And I want teacher teach on slides because I can't obviously see the handwritings on a boardThe sentiment polarity of instructor is neutral .
+The lecture is easy to understand after the instructor has taught.The sentiment polarity of instructor is positive .
+Would like the teacher to have techniques that make students more interested in studyingThe sentiment polarity of motivation is negative .
+The workload is simply too much. Having individual assignment every week on top of gorup assignment, every week, is simply just too much considering this term's subjects. Individual homework often consist of having to list the meaning of this amount of words which in my opinion, didn't help me gain knowledge and certainly not [course] knowledge. The assigments or project requirement are sometimes unreasonable. Having the same minimum requirement of pages in phase 2 of the project as phase one is just simply lazy on their part at best and malicious at worst, phase 2 of the project simply has less content than phase 1 by a mile and yet they still expect us to deliver the same amount of pages as phase one. I also have issues with the questions in midterm exam. I can't simply cannot make sense of some of the question they decided to ask us. Why would having us list the tasks of team prject member and rate them test my knowledge of [course]. How would letting us give meaning to some words in an open-book exam benefit us when we do jobs in the future. It also took me almost all of this semester time to just find the meaning and importance of [course] and it's not by the class or exam or project but simply by my own research. Also we do we need to do executive summary and summary to every group assignment when sometimes the content is just half a page.The sentiment polarity of motivation is neutral .
+Deadline in sending work is quite fast in some events.The sentiment polarity of instructor is neutral .
+I think students should discuss in classroom and teacher should use microphone and projector for clear teaching.The sentiment polarity of instructor is negative .
+If the invited guest speaker doing in online the student should be online tooThe sentiment polarity of organization is negative .
+Overall is excellent, but it would be better if we could receive the slide in the classroom.The sentiment polarity of motivation is neutral .
+Too much worksThe sentiment polarity of organization is negative .
+The teacher should have more time to check the name.The sentiment polarity of instructor is neutral .
+Instructor often ignor student's question and things being asking regarding the class never been replyed.The sentiment polarity of instructor is negative .
+This class is the least enjoyable class in this semeseter. The weekly assignment in my opinion is not nessecary. This class's assignment is too heavy, and it takes up most of the time I have spent in this semester. So much work for so few credits, not to mention that the content is scattered all over the place, with some overlapping with computer networking and software engineering. I think this class has potential but by the way it is planned right now, theres too much unnessecary workload and too much contents. Please adjust this class.The sentiment polarity of organization is negative .
+I love teachers bc they have read our work before q@&a session so they can provide good feedbackThe sentiment polarity of content quality is neutral .
+Deadline in sending work is quite fast in some events.The sentiment polarity of organization is negative .
+Like, please ask for the quiz at the end of the period.The sentiment polarity of organization is negative .
+I love teachers bc they have read our work before q@&a session so they can provide good feedbackThe sentiment polarity of motivation is neutral .
+This class is the least enjoyable class in this semeseter. The weekly assignment in my opinion is not nessecary. This class's assignment is too heavy, and it takes up most of the time I have spent in this semester. So much work for so few credits, not to mention that the content is scattered all over the place, with some overlapping with computer networking and software engineering. I think this class has potential but by the way it is planned right now, theres too much unnessecary workload and too much contents. Please adjust this class.The sentiment polarity of instructor is neutral .
+I feel too cruel and there is an inappropriate comment.Such as showing children's work and comparing with other studentsAlso, there is no confusion in order to change the Instructor on the last day before sending.I can't manage time.The sentiment polarity of motivation is neutral .
+You are very kind and I really like your teaching style.The sentiment polarity of organization is neutral .
+The teacher taught is a little too fast.The sentiment polarity of content quality is neutral .
+Good course, learning many things, even teammate does not work very well as expected.The sentiment polarity of organization is neutral .
+This course is very difficult expecially the last part. I think there should be some adjustment to the cirriculum and maybe exclue some topic. Some topics are too complicated to be taught in an entry level class in my opinion.The sentiment polarity of content quality is negative.
+Too much worksThe sentiment polarity of instructor is neutral .
+I like the real-time feedback that [instructor] gave during class.The sentiment polarity of content quality is neutral .
+Professor received homework in class, so when i get sick i cannot sent the homework properly. I think ajarn should use [software] to sent the homework. It does not make sense that student must send the homework without using [system] while in online session student can send the assignment with tools.The sentiment polarity of instructor is neutral .
+Change the assignment cuz in real world, we use [library], [library] not necessary to do recursive or anything like that.The sentiment polarity of content quality is neutral .
+The lecture slides content is sometimes having too much content for students to digest, but still appreciated studying this course with [instructor] and [instructor].The sentiment polarity of instructor is neutral .
+Ajarn should not speak during the quiz timeThe sentiment polarity of instructor is negative .
+During my contact with [instructor], I could realize that [instructor] is a very efficient academic. [instructor] knowledge and experience is certainly extensiveThe sentiment polarity of organization is neutral .
+Overall is excellent, but it would be better if we could receive the slide in the classroom.The sentiment polarity of content quality is neutral .
+please use a microphoneThe sentiment polarity of instructor is negative .
+Order a lot of workBut gives very little time to workThe sentiment polarity of motivation is neutral .

@@ -1,0 +1,67 @@
+{
+  "os": "Linux-5.15.0-105-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.12",
+  "startedAt": "2025-04-18T14:54:58.631772Z",
+  "args": [
+    "-mode",
+    "train",
+    "-model_checkpoint",
+    "../../Llama3-Inst-SAMS/Output/llama3-instruct/coursera/atsc/meta-llamaLlama-3.2-3B-Instruct-atsc_check",
+    "-experiment_name",
+    "atsc_check",
+    "-task",
+    "atsc",
+    "-output_dir",
+    "../Output/llama3-instruct-transfer/original/fold4",
+    "-inst_type",
+    "2",
+    "-id_tr_data_path",
+    "../../Dataset/instructed/original/org-fold4.csv",
+    "-id_te_data_path",
+    "../../Dataset/instructed/testset/testset4.csv",
+    "-per_device_train_batch_size",
+    "1",
+    "-per_device_eval_batch_size",
+    "1",
+    "-learning_rate",
+    "5e-5",
+    "-num_train_epochs",
+    "8"
+  ],
+  "program": "/workspace/course-eval/Llama3-Inst-MAMS/Scripts/../run_model.py",
+  "root": "/workspace/course-eval/Llama3-Inst-MAMS/Scripts",
+  "host": "course-eval-pod",
+  "executable": "/usr/bin/python",
+  "cpu_count": 128,
+  "cpu_count_logical": 256,
+  "gpu": "NVIDIA A100-SXM4-40GB",
+  "gpu_count": 2,
+  "disk": {
+    "/": {
+      "total": "1888556142592",
+      "used": "597653790720"
+    }
+  },
+  "memory": {
+    "total": "1081969606656"
+  },
+  "cpu": {
+    "count": 128,
+    "countLogical": 256
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA A100-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.5"
+}

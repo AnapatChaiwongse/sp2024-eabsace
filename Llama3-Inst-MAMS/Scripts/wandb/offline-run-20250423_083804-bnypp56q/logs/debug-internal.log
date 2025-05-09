@@ -1,0 +1,15 @@
+{"time":"2025-04-23T08:38:04.56919728Z","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/workspace/course-eval/Llama3-Inst-MAMS/Scripts/wandb/offline-run-20250423_083804-bnypp56q/logs/debug-core.log"}
+{"time":"2025-04-23T08:38:04.683059109Z","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-23T08:38:04.684108433Z","level":"INFO","msg":"created new stream","id":"bnypp56q"}
+{"time":"2025-04-23T08:38:04.684145002Z","level":"INFO","msg":"stream: started","id":"bnypp56q"}
+{"time":"2025-04-23T08:38:04.684173827Z","level":"INFO","msg":"writer: Do: started","stream_id":"bnypp56q"}
+{"time":"2025-04-23T08:38:04.684193644Z","level":"INFO","msg":"handler: started","stream_id":"bnypp56q"}
+{"time":"2025-04-23T08:38:04.684198914Z","level":"INFO","msg":"sender: started","stream_id":"bnypp56q"}
+{"time":"2025-04-23T08:38:04.695381613Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-23T09:22:50.971252844Z","level":"INFO","msg":"stream: closing","id":"bnypp56q"}
+{"time":"2025-04-23T09:22:50.971356761Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-23T09:22:50.972224913Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-23T09:22:50.972393973Z","level":"INFO","msg":"handler: closed","stream_id":"bnypp56q"}
+{"time":"2025-04-23T09:22:50.972426845Z","level":"INFO","msg":"writer: Close: closed","stream_id":"bnypp56q"}
+{"time":"2025-04-23T09:22:50.972462122Z","level":"INFO","msg":"sender: closed","stream_id":"bnypp56q"}
+{"time":"2025-04-23T09:22:50.972885783Z","level":"INFO","msg":"stream: closed","id":"bnypp56q"}

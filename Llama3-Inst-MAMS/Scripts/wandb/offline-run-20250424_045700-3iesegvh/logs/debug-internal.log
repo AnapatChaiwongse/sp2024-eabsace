@@ -1,0 +1,15 @@
+{"time":"2025-04-24T04:57:00.588241212Z","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/workspace/course-eval/Llama3-Inst-MAMS/Scripts/wandb/offline-run-20250424_045700-3iesegvh/logs/debug-core.log"}
+{"time":"2025-04-24T04:57:00.703044644Z","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-24T04:57:00.703971566Z","level":"INFO","msg":"created new stream","id":"3iesegvh"}
+{"time":"2025-04-24T04:57:00.70403148Z","level":"INFO","msg":"stream: started","id":"3iesegvh"}
+{"time":"2025-04-24T04:57:00.704065274Z","level":"INFO","msg":"writer: Do: started","stream_id":"3iesegvh"}
+{"time":"2025-04-24T04:57:00.704167517Z","level":"INFO","msg":"handler: started","stream_id":"3iesegvh"}
+{"time":"2025-04-24T04:57:00.704075783Z","level":"INFO","msg":"sender: started","stream_id":"3iesegvh"}
+{"time":"2025-04-24T04:57:00.715065957Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-24T05:41:27.869894195Z","level":"INFO","msg":"stream: closing","id":"3iesegvh"}
+{"time":"2025-04-24T05:41:27.869946133Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-24T05:41:27.870120734Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-24T05:41:27.870304381Z","level":"INFO","msg":"handler: closed","stream_id":"3iesegvh"}
+{"time":"2025-04-24T05:41:27.870342814Z","level":"INFO","msg":"writer: Close: closed","stream_id":"3iesegvh"}
+{"time":"2025-04-24T05:41:27.870389762Z","level":"INFO","msg":"sender: closed","stream_id":"3iesegvh"}
+{"time":"2025-04-24T05:41:27.870931557Z","level":"INFO","msg":"stream: closed","id":"3iesegvh"}

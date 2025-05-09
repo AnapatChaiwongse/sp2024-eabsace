@@ -1,0 +1,14 @@
+{"time":"2025-04-11T03:30:59.982632698Z","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/course-eval/Llama3-Inst/Scripts/wandb/offline-run-20250411_033059-gyn1celt/logs/debug-core.log"}
+{"time":"2025-04-11T03:31:00.084921107Z","level":"INFO","msg":"created new stream","id":"gyn1celt"}
+{"time":"2025-04-11T03:31:00.084935018Z","level":"INFO","msg":"stream: started","id":"gyn1celt"}
+{"time":"2025-04-11T03:31:00.085019584Z","level":"INFO","msg":"writer: Do: started","stream_id":"gyn1celt"}
+{"time":"2025-04-11T03:31:00.085042329Z","level":"INFO","msg":"handler: started","stream_id":"gyn1celt"}
+{"time":"2025-04-11T03:31:00.085025955Z","level":"INFO","msg":"sender: started","stream_id":"gyn1celt"}
+{"time":"2025-04-11T03:31:00.088531109Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-11T03:36:17.843672501Z","level":"INFO","msg":"stream: closing","id":"gyn1celt"}
+{"time":"2025-04-11T03:36:17.843695722Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-11T03:36:17.84423539Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-11T03:36:17.844272838Z","level":"INFO","msg":"handler: closed","stream_id":"gyn1celt"}
+{"time":"2025-04-11T03:36:17.844280924Z","level":"INFO","msg":"writer: Close: closed","stream_id":"gyn1celt"}
+{"time":"2025-04-11T03:36:17.844302513Z","level":"INFO","msg":"sender: closed","stream_id":"gyn1celt"}
+{"time":"2025-04-11T03:36:17.844397761Z","level":"INFO","msg":"stream: closed","id":"gyn1celt"}

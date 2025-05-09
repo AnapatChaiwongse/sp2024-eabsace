@@ -1,0 +1,15 @@
+{"time":"2025-04-18T14:54:58.638584341Z","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/workspace/course-eval/Llama3-Inst-MAMS/Scripts/wandb/offline-run-20250418_145458-2bvhm511/logs/debug-core.log"}
+{"time":"2025-04-18T14:54:58.856154941Z","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-18T14:54:58.857288625Z","level":"INFO","msg":"created new stream","id":"2bvhm511"}
+{"time":"2025-04-18T14:54:58.857359419Z","level":"INFO","msg":"stream: started","id":"2bvhm511"}
+{"time":"2025-04-18T14:54:58.85739695Z","level":"INFO","msg":"handler: started","stream_id":"2bvhm511"}
+{"time":"2025-04-18T14:54:58.857384125Z","level":"INFO","msg":"writer: Do: started","stream_id":"2bvhm511"}
+{"time":"2025-04-18T14:54:58.857412018Z","level":"INFO","msg":"sender: started","stream_id":"2bvhm511"}
+{"time":"2025-04-18T14:54:58.869744518Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-18T15:04:34.715921154Z","level":"INFO","msg":"stream: closing","id":"2bvhm511"}
+{"time":"2025-04-18T15:04:34.716021634Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-18T15:04:34.716832808Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-18T15:04:34.716967553Z","level":"INFO","msg":"handler: closed","stream_id":"2bvhm511"}
+{"time":"2025-04-18T15:04:34.71699232Z","level":"INFO","msg":"writer: Close: closed","stream_id":"2bvhm511"}
+{"time":"2025-04-18T15:04:34.717013029Z","level":"INFO","msg":"sender: closed","stream_id":"2bvhm511"}
+{"time":"2025-04-18T15:04:34.717363181Z","level":"INFO","msg":"stream: closed","id":"2bvhm511"}

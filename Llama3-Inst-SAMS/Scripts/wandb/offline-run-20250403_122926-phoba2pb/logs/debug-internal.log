@@ -1,0 +1,14 @@
+{"time":"2025-04-03T12:29:27.028061043Z","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/course-eval/Llama3-Inst/Scripts/wandb/offline-run-20250403_122926-phoba2pb/logs/debug-core.log"}
+{"time":"2025-04-03T12:29:27.132749363Z","level":"INFO","msg":"created new stream","id":"phoba2pb"}
+{"time":"2025-04-03T12:29:27.132810702Z","level":"INFO","msg":"stream: started","id":"phoba2pb"}
+{"time":"2025-04-03T12:29:27.132986318Z","level":"INFO","msg":"writer: Do: started","stream_id":"phoba2pb"}
+{"time":"2025-04-03T12:29:27.133031313Z","level":"INFO","msg":"handler: started","stream_id":"phoba2pb"}
+{"time":"2025-04-03T12:29:27.133151177Z","level":"INFO","msg":"sender: started","stream_id":"phoba2pb"}
+{"time":"2025-04-03T12:29:27.14428159Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T12:29:27.432357784Z","level":"INFO","msg":"stream: closing","id":"phoba2pb"}
+{"time":"2025-04-03T12:29:27.432372627Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-03T12:29:27.432805778Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-03T12:29:27.432837715Z","level":"INFO","msg":"handler: closed","stream_id":"phoba2pb"}
+{"time":"2025-04-03T12:29:27.432842259Z","level":"INFO","msg":"writer: Close: closed","stream_id":"phoba2pb"}
+{"time":"2025-04-03T12:29:27.432849206Z","level":"INFO","msg":"sender: closed","stream_id":"phoba2pb"}
+{"time":"2025-04-03T12:29:27.432895406Z","level":"INFO","msg":"stream: closed","id":"phoba2pb"}

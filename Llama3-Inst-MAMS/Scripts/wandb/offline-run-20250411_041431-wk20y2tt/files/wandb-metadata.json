@@ -1,0 +1,65 @@
+{
+  "os": "Linux-6.8.0-52-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.12",
+  "startedAt": "2025-04-11T04:14:31.912515Z",
+  "args": [
+    "-mode",
+    "train",
+    "-model_checkpoint",
+    "meta-llama/Llama-3.2-3B-Instruct",
+    "-experiment_name",
+    "atsc_check",
+    "-task",
+    "atsc",
+    "-output_dir",
+    "../Output/llama3-instruct/original/fold2",
+    "-inst_type",
+    "2",
+    "-id_tr_data_path",
+    "../../Dataset/instructed/original/org-fold2.csv",
+    "-id_te_data_path",
+    "../../Dataset/instructed/testset/testset2.csv",
+    "-per_device_train_batch_size",
+    "1",
+    "-per_device_eval_batch_size",
+    "1",
+    "-num_train_epochs",
+    "8"
+  ],
+  "program": "/course-eval/Llama3-Inst/Scripts/../run_model.py",
+  "root": "/course-eval/Llama3-Inst/Scripts",
+  "host": "c265c9994d82",
+  "executable": "/usr/bin/python",
+  "cpu_count": 24,
+  "cpu_count_logical": 32,
+  "gpu": "NVIDIA GeForce RTX 4090",
+  "gpu_count": 2,
+  "disk": {
+    "/": {
+      "total": "1967317549056",
+      "used": "1689474207744"
+    }
+  },
+  "memory": {
+    "total": "134868873216"
+  },
+  "cpu": {
+    "count": 24,
+    "countLogical": 32
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 4090",
+      "memoryTotal": "25757220864",
+      "cudaCores": 16384,
+      "architecture": "Ada"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 4090",
+      "memoryTotal": "25757220864",
+      "cudaCores": 16384,
+      "architecture": "Ada"
+    }
+  ],
+  "cudaVersion": "12.4"
+}

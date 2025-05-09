@@ -1,0 +1,14 @@
+{"time":"2025-04-04T10:32:35.829812021Z","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/course-eval/Llama3-Inst/Scripts/wandb/offline-run-20250404_103235-niumbrsi/logs/debug-core.log"}
+{"time":"2025-04-04T10:32:35.935059314Z","level":"INFO","msg":"created new stream","id":"niumbrsi"}
+{"time":"2025-04-04T10:32:35.935125586Z","level":"INFO","msg":"stream: started","id":"niumbrsi"}
+{"time":"2025-04-04T10:32:35.93523812Z","level":"INFO","msg":"writer: Do: started","stream_id":"niumbrsi"}
+{"time":"2025-04-04T10:32:35.935343545Z","level":"INFO","msg":"sender: started","stream_id":"niumbrsi"}
+{"time":"2025-04-04T10:32:35.93544165Z","level":"INFO","msg":"handler: started","stream_id":"niumbrsi"}
+{"time":"2025-04-04T10:32:35.94855969Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-04T10:32:38.367330768Z","level":"INFO","msg":"stream: closing","id":"niumbrsi"}
+{"time":"2025-04-04T10:32:38.36734317Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-04T10:32:38.368065332Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-04T10:32:38.368171232Z","level":"INFO","msg":"handler: closed","stream_id":"niumbrsi"}
+{"time":"2025-04-04T10:32:38.368177587Z","level":"INFO","msg":"writer: Close: closed","stream_id":"niumbrsi"}
+{"time":"2025-04-04T10:32:38.368216309Z","level":"INFO","msg":"sender: closed","stream_id":"niumbrsi"}
+{"time":"2025-04-04T10:32:38.368384297Z","level":"INFO","msg":"stream: closed","id":"niumbrsi"}

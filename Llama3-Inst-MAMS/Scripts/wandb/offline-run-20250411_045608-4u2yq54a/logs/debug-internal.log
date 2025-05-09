@@ -1,0 +1,7 @@
+{"time":"2025-04-11T04:56:09.146659917Z","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/course-eval/Llama3-Inst/Scripts/wandb/offline-run-20250411_045608-4u2yq54a/logs/debug-core.log"}
+{"time":"2025-04-11T04:56:09.251017693Z","level":"INFO","msg":"created new stream","id":"4u2yq54a"}
+{"time":"2025-04-11T04:56:09.251083329Z","level":"INFO","msg":"stream: started","id":"4u2yq54a"}
+{"time":"2025-04-11T04:56:09.251209065Z","level":"INFO","msg":"writer: Do: started","stream_id":"4u2yq54a"}
+{"time":"2025-04-11T04:56:09.251284498Z","level":"INFO","msg":"sender: started","stream_id":"4u2yq54a"}
+{"time":"2025-04-11T04:56:09.251361165Z","level":"INFO","msg":"handler: started","stream_id":"4u2yq54a"}
+{"time":"2025-04-11T04:56:09.263519416Z","level":"INFO","msg":"Starting system monitor"}

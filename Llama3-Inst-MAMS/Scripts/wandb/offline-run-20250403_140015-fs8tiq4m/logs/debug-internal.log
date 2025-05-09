@@ -1,0 +1,14 @@
+{"time":"2025-04-03T14:00:15.604029213Z","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/course-eval/Llama3-Inst/Scripts/wandb/offline-run-20250403_140015-fs8tiq4m/logs/debug-core.log"}
+{"time":"2025-04-03T14:00:15.709449676Z","level":"INFO","msg":"created new stream","id":"fs8tiq4m"}
+{"time":"2025-04-03T14:00:15.709495553Z","level":"INFO","msg":"stream: started","id":"fs8tiq4m"}
+{"time":"2025-04-03T14:00:15.70960957Z","level":"INFO","msg":"handler: started","stream_id":"fs8tiq4m"}
+{"time":"2025-04-03T14:00:15.709645455Z","level":"INFO","msg":"writer: Do: started","stream_id":"fs8tiq4m"}
+{"time":"2025-04-03T14:00:15.709746701Z","level":"INFO","msg":"sender: started","stream_id":"fs8tiq4m"}
+{"time":"2025-04-03T14:00:15.720226774Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T14:00:15.905864038Z","level":"INFO","msg":"stream: closing","id":"fs8tiq4m"}
+{"time":"2025-04-03T14:00:15.905874316Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-03T14:00:15.906143932Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-03T14:00:15.906161432Z","level":"INFO","msg":"handler: closed","stream_id":"fs8tiq4m"}
+{"time":"2025-04-03T14:00:15.906163321Z","level":"INFO","msg":"writer: Close: closed","stream_id":"fs8tiq4m"}
+{"time":"2025-04-03T14:00:15.906167044Z","level":"INFO","msg":"sender: closed","stream_id":"fs8tiq4m"}
+{"time":"2025-04-03T14:00:15.906217382Z","level":"INFO","msg":"stream: closed","id":"fs8tiq4m"}

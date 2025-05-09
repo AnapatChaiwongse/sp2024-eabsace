@@ -1,0 +1,15 @@
+{"time":"2025-04-24T13:49:48.319723584Z","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/workspace/course-eval/Llama3-Inst-MAMS/Scripts/wandb/offline-run-20250424_134948-hrk10htq/logs/debug-core.log"}
+{"time":"2025-04-24T13:49:48.436911395Z","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-24T13:49:48.43852183Z","level":"INFO","msg":"created new stream","id":"hrk10htq"}
+{"time":"2025-04-24T13:49:48.438614455Z","level":"INFO","msg":"stream: started","id":"hrk10htq"}
+{"time":"2025-04-24T13:49:48.438686331Z","level":"INFO","msg":"writer: Do: started","stream_id":"hrk10htq"}
+{"time":"2025-04-24T13:49:48.439059296Z","level":"INFO","msg":"sender: started","stream_id":"hrk10htq"}
+{"time":"2025-04-24T13:49:48.439174885Z","level":"INFO","msg":"handler: started","stream_id":"hrk10htq"}
+{"time":"2025-04-24T13:49:48.449961914Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-24T15:50:03.997451336Z","level":"INFO","msg":"stream: closing","id":"hrk10htq"}
+{"time":"2025-04-24T15:50:03.997503624Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-24T15:50:03.998400801Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-24T15:50:03.998558179Z","level":"INFO","msg":"handler: closed","stream_id":"hrk10htq"}
+{"time":"2025-04-24T15:50:03.998576884Z","level":"INFO","msg":"writer: Close: closed","stream_id":"hrk10htq"}
+{"time":"2025-04-24T15:50:03.998633992Z","level":"INFO","msg":"sender: closed","stream_id":"hrk10htq"}
+{"time":"2025-04-24T15:50:03.999284583Z","level":"INFO","msg":"stream: closed","id":"hrk10htq"}

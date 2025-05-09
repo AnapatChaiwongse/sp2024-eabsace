@@ -1,0 +1,14 @@
+{"time":"2025-04-04T07:56:46.778284302Z","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/course-eval/Llama3-Inst/Scripts/wandb/offline-run-20250404_075646-2u3dwbfy/logs/debug-core.log"}
+{"time":"2025-04-04T07:56:46.884778735Z","level":"INFO","msg":"created new stream","id":"2u3dwbfy"}
+{"time":"2025-04-04T07:56:46.884869751Z","level":"INFO","msg":"stream: started","id":"2u3dwbfy"}
+{"time":"2025-04-04T07:56:46.885083857Z","level":"INFO","msg":"writer: Do: started","stream_id":"2u3dwbfy"}
+{"time":"2025-04-04T07:56:46.88523174Z","level":"INFO","msg":"handler: started","stream_id":"2u3dwbfy"}
+{"time":"2025-04-04T07:56:46.885171438Z","level":"INFO","msg":"sender: started","stream_id":"2u3dwbfy"}
+{"time":"2025-04-04T07:56:46.897565059Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-04T07:56:47.244816307Z","level":"INFO","msg":"stream: closing","id":"2u3dwbfy"}
+{"time":"2025-04-04T07:56:47.244826323Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-04T07:56:47.245083916Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-04T07:56:47.245105846Z","level":"INFO","msg":"handler: closed","stream_id":"2u3dwbfy"}
+{"time":"2025-04-04T07:56:47.245108984Z","level":"INFO","msg":"writer: Close: closed","stream_id":"2u3dwbfy"}
+{"time":"2025-04-04T07:56:47.245135195Z","level":"INFO","msg":"sender: closed","stream_id":"2u3dwbfy"}
+{"time":"2025-04-04T07:56:47.245138255Z","level":"INFO","msg":"stream: closed","id":"2u3dwbfy"}
