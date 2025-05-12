@@ -9,6 +9,11 @@ This experiment used 2 main models which is Bart-Large-CNN and Llama3.2-[n]b-ins
 - For SAMS: `./Dataset/coursera`
 - For Instruction-Tuning: `./Dataset/instructed`
 
+## Augmentation ➕:
+- Backtranslation 🚩: `./Augmentation/Backtranslation/backtranslation.ipynb`
+- Parrot 🦜: `./Augmentation/Parrot/parrot-paraphraser.ipynb`
+- Generative-AI 🤖: `./OpenAI/gpt-gen.py`, environment variable required: `OPENAI_API_KEY`
+
 ## Bart-Large-CNN 🤖:
 - `cd Bart-Large-CNN-xxMS`
 - In order to run Bart training, first you need to config `train.py` and `test_SAMS.py` to match your train and test dataset.
@@ -25,4 +30,5 @@ This experiment used 2 main models which is Bart-Large-CNN and Llama3.2-[n]b-ins
 ## Reference 🙏:
 - [InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis (arXiv:2302.08624)](https://arxiv.org/abs/2302.08624)
 - InstructABSA by kevinscaria: [kevinscaria/InstructABSA](https://github.com/kevinscaria/InstructABSA)
+- Parrot_Paraphraser: [PrithivirajDamodaran/Parrot_Paraphraser](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser)
 
